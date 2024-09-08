@@ -1,4 +1,4 @@
-## **README.md Descontraído para o Hall da Fama do LoL**
+## **README.md Descontraído para o Hall da Fama do LoL**-- Imersão Dev com Google Gemini
 
 ### **O que é esse troço?**
 
